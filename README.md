@@ -1,5 +1,5 @@
 # OpenWrt-X 内置编译包
-- [luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)：主题插件。
+- [luci-theme-argon修改版](https://github.com/BoscoL/luci-theme-argon.git)：主题插件。
 - [PassWall](https://github.com/xiaorouji/openwrt-passwall)：科学上网插件。
 
 
